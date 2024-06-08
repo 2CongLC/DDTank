@@ -9,3 +9,15 @@ E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\SRC\DDTank Tool\obj\Debug\DDTank Tool.exe
 E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\SRC\DDTank Tool\obj\Debug\DDTank Tool.xml
 E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\SRC\DDTank Tool\obj\Debug\DDTank Tool.pdb
 E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\SRC\DDTank Tool\obj\Debug\DDTank Tool.vbprojAssemblyReference.cache
+D:\Source VBNet_C#\GitHub\DDTank\src\bin\Debug\DDTank Tool.exe.config
+D:\Source VBNet_C#\GitHub\DDTank\src\bin\Debug\DDTank Tool.exe
+D:\Source VBNet_C#\GitHub\DDTank\src\bin\Debug\DDTank Tool.pdb
+D:\Source VBNet_C#\GitHub\DDTank\src\bin\Debug\DDTank Tool.xml
+D:\Source VBNet_C#\GitHub\DDTank\src\obj\Debug\DDTank Tool.vbproj.AssemblyReference.cache
+D:\Source VBNet_C#\GitHub\DDTank\src\obj\Debug\ChuCong.main.resources
+D:\Source VBNet_C#\GitHub\DDTank\src\obj\Debug\ChuCong.Resources.resources
+D:\Source VBNet_C#\GitHub\DDTank\src\obj\Debug\DDTank Tool.vbproj.GenerateResource.cache
+D:\Source VBNet_C#\GitHub\DDTank\src\obj\Debug\DDTank Tool.vbproj.CoreCompileInputs.cache
+D:\Source VBNet_C#\GitHub\DDTank\src\obj\Debug\DDTank Tool.exe
+D:\Source VBNet_C#\GitHub\DDTank\src\obj\Debug\DDTank Tool.xml
+D:\Source VBNet_C#\GitHub\DDTank\src\obj\Debug\DDTank Tool.pdb
