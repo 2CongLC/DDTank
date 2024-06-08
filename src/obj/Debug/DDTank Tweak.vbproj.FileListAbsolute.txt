@@ -1,0 +1,11 @@
+F:\Setup\MrChuCong_DEV-C#vb\DDTank Tweak\bin\Debug\DDTank Tweak.exe
+F:\Setup\MrChuCong_DEV-C#vb\DDTank Tweak\bin\Debug\DDTank Tweak.pdb
+F:\Setup\MrChuCong_DEV-C#vb\DDTank Tweak\bin\Debug\DDTank Tweak.xml
+F:\Setup\MrChuCong_DEV-C#vb\DDTank Tweak\bin\Debug\zlib.net.dll
+F:\Setup\MrChuCong_DEV-C#vb\DDTank Tweak\obj\Debug\DDTank Tweak.vbprojResolveAssemblyReference.cache
+F:\Setup\MrChuCong_DEV-C#vb\DDTank Tweak\obj\Debug\DDTank.main.resources
+F:\Setup\MrChuCong_DEV-C#vb\DDTank Tweak\obj\Debug\DDTank.Resources.resources
+F:\Setup\MrChuCong_DEV-C#vb\DDTank Tweak\obj\Debug\DDTank Tweak.vbproj.GenerateResource.Cache
+F:\Setup\MrChuCong_DEV-C#vb\DDTank Tweak\obj\Debug\DDTank Tweak.exe
+F:\Setup\MrChuCong_DEV-C#vb\DDTank Tweak\obj\Debug\DDTank Tweak.xml
+F:\Setup\MrChuCong_DEV-C#vb\DDTank Tweak\obj\Debug\DDTank Tweak.pdb
